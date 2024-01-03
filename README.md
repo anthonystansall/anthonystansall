@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello World! I'm Anthony 🌟
 
-<!--
-**cocobanana2/cocobanana2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+I'm a data enthusiast on a quest to explore the realms of Data Science, Engineering, Analysis, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python Wrangler: I love scripting and automating tasks with Python!
+- 📊 Data Voyager: Exploring datasets is my kind of adventure.
+- 🤖 ML Enthusiast: Building and tweaking models to see the magic happen.
+- 🛠️ Engineering Aspirant: Structuring data pipelines is my forte.
+
+## What I'm up to 🌱
+
+- Honing my skills in advanced predictive modeling.
+- Diving deep on algorithms and data structures.
+- Preparing to switch from my career as a recruiter to the world of data.
+
+## My Toolbox 🧰
+
+- **Languages**: Python (Pandas, NumPy)
+- **Databases**: SQL
+- **Tools & Platforms**: Jupyter, Git
