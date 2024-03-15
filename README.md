@@ -25,4 +25,4 @@ I'm a career recruiter turned data enthusiast, and I'm on a mission to dive into
 
 ## Let's Connect 🤝
 
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/anthonystansall/)
+- [LinkedIn](https://www.linkedin.com/in/anthonystansall/)
