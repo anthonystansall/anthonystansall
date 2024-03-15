@@ -19,7 +19,7 @@ I'm a career recruiter turned data enthusiast, and I'm on a mission to dive into
 ## My Toolbox 🧰
 
 - **Languages**: Python, SQL
-- **Packages**: Pandas, NumPy, Sci-Kit Learn
+- **Packages**: Pandas, NumPy, Scikit Learn
 - **Databases**: PostgreSQL, MongoDB
 - **Tools & Platforms**: Jupyter, Git
 
