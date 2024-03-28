@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a career recruiter turned data enthusiast, and I'm on a mission to dive into the world of Machine Learning and Software Engineering.
+I'm a career recruiter turned data enthusiast, and I'm on a mission to dive into the world of Data Engineering and Software Engineering.
 
 - 🐍 Python Wrangler: I thrive on scripting and automating tasks with Python.
 - 📊 Data Voyager: Exploring datasets is my kind of adventure.
